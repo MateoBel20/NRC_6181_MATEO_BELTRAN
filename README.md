@@ -9,3 +9,4 @@ Buenas prácticas de la programación
 6. Tener presente las bases de la programación.
 7. No olvidar la sintaxis del lenguaje empleado.
 MATEO BELTRAN BRITO
+HOLA 
